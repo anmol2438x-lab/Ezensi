@@ -37,9 +37,9 @@ export const metadata: Metadata = {
   ],
 
   authors: [
-    { name: "Sachin Sehrawat", url: "https://github.com/SachinPro007" },
+    { name: "Anmol Kumar", url: "https://github.com/anmol2438x-lab" },
   ],
-  creator: "Sachin Sehrawat",
+  creator: "Anmol Kumar",
 
   // Open Graph (For LinkedIn, WhatsApp, Facebook)
   openGraph: {

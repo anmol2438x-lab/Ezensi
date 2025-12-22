@@ -687,7 +687,7 @@ const Home = () => {
           </div>
 
           <div className="text-slate-500 text-sm">
-            © 2025 Ezensi. Built for the modern web. Build with ❤ Sachin
+            © 2025 Ezensi. Built for the modern web. Build with ❤ Anmol
           </div>
 
           <div className="flex gap-6 text-slate-400">
